@@ -4,7 +4,7 @@ function repeat(str, num){
         for (var i=0; i<num; i++){
             output = output + str;
         }
-        console.log(output);
+        console.log(output);    
     }
     else{
         console.log("ERROR");
@@ -15,5 +15,15 @@ repeat("shruti", 4);
 repeat("pooja", "1");
 repeat("tanu", 0);
 repeat("manu", -2);
+
+//=====================================================================================================================================
+
+
+
+
+
+
+
+
 
 
